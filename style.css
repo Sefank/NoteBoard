@@ -1,0 +1,11 @@
+.card-text {
+    margin: 0 0.5em !important;
+}
+
+.card-body p {
+    text-indent: 2em;
+}
+
+.input-group {
+    position: relative;
+}
